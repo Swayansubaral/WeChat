@@ -22,6 +22,7 @@ logs
 *.sw?
 
 # Environment variables
+.env
 .env.local
 
 
